@@ -1,0 +1,10 @@
+title: Dang Consulting
+description: __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.___
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-tactile
+email: "contact@dangconsulting.fr"
+
+plugins:
+  - jekyll-email-protect
+  - jekyll-sitemap
