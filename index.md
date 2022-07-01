@@ -7,11 +7,11 @@ layout: default
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="thaidangfr"><a class="LI-simple-link" href='https://fr.linkedin.com/in/thaidangfr?trk=profile-badge'></a></div>
 
-<div style="color:black">
+## project
+
 [GitHub](https://github.com/ThaiDangFr)
 [AWS IQ](https://iq.aws.amazon.com/e/thaidang)
 [Credly](https://www.credly.com/users/thai-dang.1ac1477f)
 [Email](mailto:{{ site.email | encode_email }})
 
 <a href="https://github.com/ThaiDangFr">GitHub</a> <a href="https://iq.aws.amazon.com/e/thaidang" title="awsiq">AWS IQ</a> <a href="https://www.credly.com/users/thai-dang.1ac1477f" title="credly">Credly</a> <a href="mailto:{{ site.email | encode_email }}" title="email">Email</a>
-<div>
