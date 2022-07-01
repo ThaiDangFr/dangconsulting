@@ -4,6 +4,7 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-tactile
 email: "contact@dangconsulting.fr"
+markdown: kramdown
 
 plugins:
   - jekyll-email-protect
