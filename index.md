@@ -9,5 +9,3 @@ layout: default
 
 ---
 [GitHub](https://github.com/ThaiDangFr) - [AWS IQ](https://iq.aws.amazon.com/e/thaidang) - [Credly](https://www.credly.com/users/thai-dang.1ac1477f) - [Email](mailto:{{ site.email | encode_email }})
-
-<a href="https://github.com/ThaiDangFr">GitHub</a> - <a href="https://iq.aws.amazon.com/e/thaidang" title="awsiq">AWS IQ</a> - <a href="https://www.credly.com/users/thai-dang.1ac1477f" title="credly">Credly</a> - <a href="mailto:{{ site.email | encode_email }}" title="email">Email</a>
