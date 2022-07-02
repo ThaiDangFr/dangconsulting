@@ -8,4 +8,4 @@ layout: default
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="fr_FR" data-type="horizontal" data-theme="light" data-vanity="thaidangfr"><a class="LI-simple-link" href='https://fr.linkedin.com/in/thaidangfr?trk=profile-badge'></a></div>
 
 ---
-[GitHub](https://github.com/ThaiDangFr) - [AWS IQ](https://iq.aws.amazon.com/e/thaidang) - [Credly](https://www.credly.com/users/thai-dang.1ac1477f) - [Email](mailto:{{ site.email | encode_email }})
+[GitHub](https://github.com/ThaiDangFr) - [AWS IQ](https://iq.aws.amazon.com/e/thaidang) - [Credly](https://www.credly.com/users/thai-dang.1ac1477f)
